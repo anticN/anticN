@@ -17,7 +17,7 @@
       <li>React <img src="./images/react.png" height="24px"></li>
       <li>HTML <img src="./images/html-5.png" height="24px"></li>
       <li>CSS <img src="./images/css-3.png" height="24px"></li>
-      <li>MongoDB <img src="./images/mongodb.png" height="24px"></li>
+      <li>MongoDB <img src="./images/MongoDB.png" height="24px"></li>
       <li>SQL <img src="./images/sql-server.png" height="24px"></li>
     </ul>
 </h3>
