@@ -1,12 +1,35 @@
-<h1 align="center">
+<h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nikola+Antic....;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
 
-<h4 align="center">
-    I'm Nikola Antic a student from Zurich<img src="./images/ch.png" height="15px">, studying to become a software engineer.<br><br>
-</h4>
+<h3>
+    I'm Nikola Antic a student from Zurich <img src="./images/ch.png" height="15px">, studying to become a software engineer.<br><br>
+</h3>
+
+<h3>
+    My most used technologies are: 
+    <br>
+    <ul>
+      <li>Python <img src="./images/python-logo-only.png" height="24px"></li>
+      <li>JavaScript <img src="./images/js.png" height="24px"></li>
+      <li>React <img src="./images/react.png" height="24px"></li>
+      <li>HTML <img src="./images/html-5.png" height="24px"></li>
+      <li>CSS <img src="./images/css-3.png" height="24px"></li>
+      <li>MongoDB <img src="./images/mongodb.png" height="24px"></li>
+      <li>SQL <img src="./images/sql-server.png" height="24px"></li>
+    </ul>
+</h3>
+
+<h3>I'm open to collaborate on any project, so feel free to contact me on:<br><a href="mailto:n.antic@virine.com">n.antic@virine.com</a><br>
+</h3>
+
+<p align="center">
+Visitor Count:<br>
+<img src="https://profile-counter.glitch.me/anticN/count.svg" width="180px">
+</p>
+
 
 <!--
 **anticN/anticN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
