@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nikola+Antic....;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
+
+<h4 align="center">
+    I'm Nikola Antic a student from Zurich<img src="./images/ch.png" height="15px">, studying to become a software engineer.<br><br>
+</h4>
 
 <!--
 **anticN/anticN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
