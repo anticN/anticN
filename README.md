@@ -14,7 +14,7 @@
     <ul>
       <li>Python <img src="./images/python-logo-only.png" height="35px"></li>
       <li>JavaScript <img src="./images/js.png" height="35px"></li>
-      <li>React <img src="./images/react.png" height="35px"></li>
+      <li>React <img src="./images/react-icon.png" height="35px"></li>
       <li>HTML <img src="./images/html-5.png" height="35px"></li>
       <li>CSS <img src="./images/css-3.png" height="35px"></li>
       <li>MongoDB <img src="./images/mongodb.png" height="35px"></li>
