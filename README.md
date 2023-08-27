@@ -17,7 +17,7 @@
       <li>React <img src="./images/react-icon.png" height="35px"></li>
       <li>HTML <img src="./images/html-5.png" height="35px"></li>
       <li>CSS <img src="./images/css-3.png" height="35px"></li>
-      <li>MongoDB <img src="./images/mongodb.png" height="35px"></li>
+      <li>MongoDB <img src="./images/MongoDB.png" height="35px"></li>
       <li>SQL <img src="./images/sql-server.png" height="35px"></li>
       <li>Java <img src="./images/java.png" height="35px"></li>
       <li>Docker <img src="./images/docker.png" height="35px"></li>
