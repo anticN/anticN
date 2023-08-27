@@ -9,18 +9,21 @@
 </h3>
 
 <h3>
-    My most used technologies are: 
-    <br>
+    <b>Tools and Languages</b>: 
+    <br><br>
     <ul>
-      <li>Python <img src="./images/python-logo-only.png" height="24px"></li>
-      <li>JavaScript <img src="./images/js.png" height="24px"></li>
-      <li>React <img src="./images/react.png" height="24px"></li>
-      <li>HTML <img src="./images/html-5.png" height="24px"></li>
-      <li>CSS <img src="./images/css-3.png" height="24px"></li>
-      <li>MongoDB <img src="./images/mongodb.png" height="24px"></li>
-      <li>SQL <img src="./images/sql-server.png" height="24px"></li>
+      <li>Python <img src="./images/python-logo-only.png" height="35px"></li>
+      <li>JavaScript <img src="./images/js.png" height="35px"></li>
+      <li>React <img src="./images/react.png" height="35px"></li>
+      <li>HTML <img src="./images/html-5.png" height="35px"></li>
+      <li>CSS <img src="./images/css-3.png" height="35px"></li>
+      <li>MongoDB <img src="./images/mongodb.png" height="35px"></li>
+      <li>SQL <img src="./images/sql-server.png" height="35px"></li>
+      <li>Java <img src="./images/java.png" height="35px"></li>
+      <li>Docker <img src="./images/docker.png" height="35px"></li>
+      <li>Kubernetes <img src="./images/kubernetes-icon.png" height="35px"></li>
     </ul>
-</h3>
+</h3><br>
 
 <h3>I'm open to collaborate on any project, so feel free to contact me on:<br><a href="mailto:n.antic@virine.com">n.antic@virine.com</a><br>
 </h3>
