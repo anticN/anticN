@@ -12,6 +12,7 @@
     <b>Tools and Languages</b>: 
     <br><br>
     <ul>
+      <li>Java <img src="./images/java.png" height="35px"></li>
       <li>Python <img src="./images/python-logo-only.png" height="35px"></li>
       <li>JavaScript <img src="./images/js.png" height="35px"></li>
       <li>React <img src="./images/react-icon.png" height="35px"></li>
@@ -19,7 +20,6 @@
       <li>CSS <img src="./images/css-3.png" height="35px"></li>
       <li>MongoDB <img src="./images/MongoDB.png" height="35px"></li>
       <li>SQL <img src="./images/sql-server.png" height="35px"></li>
-      <li>Java <img src="./images/java.png" height="35px"></li>
       <li>Docker <img src="./images/docker.png" height="35px"></li>
       <li>Kubernetes <img src="./images/kubernetes-icon.png" height="35px"></li>
     </ul>
