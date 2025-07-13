@@ -25,8 +25,6 @@
     </ul>
 </h3><br>
 
-<h3>I'm open to collaborate on any project, so feel free to contact me on:<br><a href="mailto:n.antic@virine.com">n.antic@virine.com</a><br>
-</h3>
 
 <p align="center">
 Visitor Count:<br>
